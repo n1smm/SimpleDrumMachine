@@ -19,8 +19,11 @@ it will look sth like this (``http://127.0.0.1:8080``)
 
 ## Usage
 First let it load for a couple of seconds. Then you can:
+
 use ``space`` for play/pause
+
 use the **slider** for adjusting the BPM of the playback
+
 **click** in the grid to add or remove the dots. If not already at the start, it will soon be quite clear what this does.
 
 ## why and no future
